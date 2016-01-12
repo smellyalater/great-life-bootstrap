@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0; }
 
-.main {
+.mainpage {
   background-image: url("../images/woman-jogging.jpg");
   background-repeat: no-repeat;
   background-size: cover; }
@@ -12,12 +12,16 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 40px; }
+  padding: 15px 40px;
+  position: fixed;
+  width: 100%;
+  z-index: 9; }
 
 .nav-links {
   list-style-type: none;
   display: flex;
-  align-content: center; }
+  align-content: center;
+  margin-bottom: 0; }
   .nav-links li {
     margin-right: 40px; }
     .nav-links li:last-of-type {
@@ -25,36 +29,21 @@ body {
   .nav-links a {
     text-decoration: none; }
 
-.callout-container {
-  display: flex;
-  justify-content: space-around;
-  margin-top: 400px; }
+.submenu {
+  display: none; }
 
-.callout {
-  width: 250px;
-  border: 2px solid red;
-  position: relative;
-  display: inline-block;
-  padding: 20px; }
-  .callout .callout-title {
-    position: relative;
-    text-align: center;
-    width: 170px;
-    margin: 0 auto;
-    margin-top: -40px;
-    border: 1px solid black;
-    background: azure;
-    border-radius: 3px; }
-    .callout .callout-title h1 {
-      margin: 0; }
-  .callout.schedule {
-    background-color: pink;
-    justify-content: space-around; }
-  .callout.services {
-    background-color: brown;
-    justify-content: space-around; }
-  .callout.learn-more {
-    background-color: lemonchiffon;
-    justify-content: space-around; }
+.main-content {
+  display: flex;
+  height: 645px; }
+  .main-content .container {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 400px;
+    padding: 20px;
+    color: white;
+    margin: 15% auto 0; }
+
+h4.hours {
+  text-align: center;
+  font-size: 1.5em; }
 
 /*# sourceMappingURL=styles.css.map */
