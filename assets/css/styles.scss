@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    background-image: url('../images/woman-jogging.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-nav {
+    background-color: tomato;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+}
+
+.logo {
+    
+}
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    align-content: center;
+    & li {
+        margin-right: 40px;
+
+        &:last-of-type {
+        	margin-right: 0;	
+        }
+    }
+
+    & a {
+        text-decoration: none;
+    }
+}
+
+.callout-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 400px;
+}
+
+.callout {
+    width: 250px;
+    border: 2px solid red;
+    position: relative;
+    display: inline-block;
+    padding: 20px;
+
+    & .callout-title {
+	    position: relative;
+	    text-align: center;
+	    width: 170px;
+	    margin: 0 auto;
+	    margin-top: -40px;
+	    border: 1px solid black;
+	    background: azure;
+	    border-radius: 3px;
+
+	    & h1 {
+	    	margin: 0;
+	    }
+    }
+
+    &.schedule {
+	    background-color: pink;
+	    justify-content: space-around;
+    }
+
+    &.services {
+        background-color: brown;
+        justify-content: space-around;
+    }
+
+    &.learn-more {
+        background-color: lemonchiffon;
+        justify-content: space-around;
+    }
+}

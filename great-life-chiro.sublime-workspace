@@ -1,0 +1,1189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"aj",
+				"ajax	$.ajax()"
+			],
+			[
+				"aja",
+				"ajaxsend	$.ajaxSend()"
+			],
+			[
+				"paddn",
+				"padding-left"
+			],
+			[
+				"tran",
+				"transition-delay"
+			],
+			[
+				"hov",
+				"hover-state"
+			],
+			[
+				"drop",
+				"dropdown-hover"
+			],
+			[
+				"cap",
+				"cp:a	clip:auto"
+			],
+			[
+				"hid",
+				"hiddenFormElements"
+			],
+			[
+				"hoe",
+				"homedesigns"
+			],
+			[
+				"mouse",
+				"mousedown	.mousedown()"
+			],
+			[
+				"i",
+				"ife	if … else"
+			],
+			[
+				"name",
+				"name-form"
+			],
+			[
+				"rese",
+				"resetForm"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"sco",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"scr",
+				"scrolltop"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"moving",
+				"moving-1"
+			],
+			[
+				"anim",
+				"animate	.animate()"
+			],
+			[
+				"ready",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"sub",
+				"submit	.submit()"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"replace",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"line",
+				"line-through"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"dis",
+				"displayTestScores"
+			],
+			[
+				"filter",
+				"filter-bar-default"
+			],
+			[
+				"hand",
+				"handlerOut"
+			],
+			[
+				"handl",
+				"handlerIn"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"list-sty",
+				"list-style"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"mul",
+				"multiplyThemJawns"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"close",
+				"close-opti-amc"
+			],
+			[
+				"fad",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"re",
+				"replaceLeadFormWithEmailOptiAMC"
+			],
+			[
+				"mo",
+				"mobileContactMenuWrapperOptiAMC"
+			],
+			[
+				"mobileCont",
+				"mobileContactMenuWrapperOptiAMC"
+			],
+			[
+				"mobileContact",
+				"mobileContactMenuFirstItem"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"mob",
+				"mobileContactMenuFirstItem"
+			],
+			[
+				"fucn",
+				"function"
+			],
+			[
+				"al",
+				"alertRandom"
+			],
+			[
+				"communi",
+				"communityTextLeadFormForOptiTest"
+			],
+			[
+				"replac",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"ranod",
+				"randomNumber"
+			],
+			[
+				"rand",
+				"randomNumber"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"number",
+				"numberHigh"
+			],
+			[
+				"co",
+				"communityName"
+			],
+			[
+				"insert",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"qu",
+				"questions"
+			],
+			[
+				"quest",
+				"questionsLeft"
+			],
+			[
+				"fo",
+				"formnote"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"firs",
+				"firstAdjective"
+			],
+			[
+				"first",
+				"firstNoun"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"con",
+				"js-contact-phone"
+			],
+			[
+				"inser",
+				"insertPhoneRemoveUselessDivsOptiAMC"
+			],
+			[
+				"clone",
+				"cloneThisPHoneOptiAMC"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fi",
+				"fixed-nav-wrapper-AMC2"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"ext",
+				"exteriorImageSwapAMC"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2199,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/styles.scss",
+			"settings":
+			{
+				"buffer_size": 1357,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1320,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "beutify",
+		"selected_items":
+		[
+			[
+				"beutify",
+				"HTMLBeautify"
+			],
+			[
+				"beautif",
+				"HTMLBeautify"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"rege",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"comb",
+				"Run CSScomb"
+			],
+			[
+				"comp",
+				"Snippet: display:compact"
+			],
+			[
+				"capt",
+				"Package Control: List Packages"
+			],
+			[
+				"package settin",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"prettyi",
+				"HTMLPrettify"
+			],
+			[
+				"JAV",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"set synta	",
+				"Set Syntax: CSS3"
+			],
+			[
+				"set",
+				"Set Syntax: Java"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 619.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.run_command(\"htmlprettify\")",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andycopleman/Desktop/nycda/great-life-chiro",
+		"/Users/andycopleman/Desktop/nycda/great-life-chiro/assets",
+		"/Users/andycopleman/Desktop/nycda/great-life-chiro/assets/css",
+		"/Users/andycopleman/Desktop/nycda/great-life-chiro/assets/images",
+		"/Users/andycopleman/Desktop/nycda/great-life-chiro/assets/javascript"
+	],
+	"file_history":
+	[
+		"/Users/andycopleman/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/andycopleman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andycopleman/Desktop/Questions for KM",
+		"/Users/andycopleman/Desktop/LA Metro Area List",
+		"/Users/andycopleman/Desktop/55w17contactpageleadform.js",
+		"/Users/andycopleman/Desktop/nycda/tallyme/assets/css/styles.css",
+		"/Users/andycopleman/Desktop/nycda/tallyme/index.html",
+		"/Users/andycopleman/Desktop/workingCode/TB.com/Top-nav-dropdown-menu/top-nav-dropdown-menu.sublime-workspace",
+		"/Users/andycopleman/Library/Application Support/Sublime Text 3/Packages/User/CSScomb.sublime-settings",
+		"/Users/andycopleman/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/andycopleman/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/andycopleman/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/andycopleman/webteam/CloudTb.com/WebRoot/WEB-INF/jsp/main/index.jsp",
+		"/Users/andycopleman/webteam/CloudTb.com/WebRoot/tb/css/pages/community.css",
+		"/Users/andycopleman/webteam/CloudTb.com/WebRoot/tb/js/optimizely_development.js",
+		"/Users/andycopleman/Desktop/workingCode/schedule a visit for people who are leads.js",
+		"/Users/andycopleman/Desktop/workingCode/TB.com/assets/styles-amc.css",
+		"/Users/andycopleman/Desktop/nycda/assignments/javascript-challenges-1/javascript-challenges-1.js",
+		"/Users/andycopleman/Desktop/Dallas Metro Area",
+		"/Users/andycopleman/Desktop/nycda/assignments/final-project/assets/scripts/Tollbrothers All - Denver area communities.js",
+		"/Users/andycopleman/Desktop/workingCode/hampdenRow-ask-us-a-question-in-mobile-menu.js",
+		"/Users/andycopleman/Desktop/workingCode/tollbrothers-desktop-fixed-nav-v2.js",
+		"/Users/andycopleman/Desktop/workingCode/tollbrothers-desktop-fixed-nav-v2.css",
+		"/Users/andycopleman/Desktop/DenverMetroArea",
+		"/Users/andycopleman/Desktop/kissmetricsTag.html",
+		"/Users/andycopleman/Desktop/nycda/assignments/final-project/index2.html",
+		"/Users/andycopleman/Desktop/nycda/assignments/final-project/assets/scripts/scripts2.js",
+		"/Users/andycopleman/Desktop/nycda/assignments/final-project/assets/css/css2.css",
+		"/Users/andycopleman/Desktop/nycda/assignments/final-project/assets/css/animations.css",
+		"/Users/andycopleman/Desktop/nycda/assignments/final-project/index.html",
+		"/Users/andycopleman/Downloads/PageTransitions/css/animations.css",
+		"/Users/andycopleman/Desktop/nycda/assignments/final-project/assets/css/page-move.css",
+		"/Users/andycopleman/Desktop/heapTag.js",
+		"/Users/andycopleman/Desktop/nycda/assignments/enchanted-pickle/assets/javascript/main.js",
+		"/Users/andycopleman/Desktop/nycda/assignments/enchanted-pickle/assets/styles/styles.css",
+		"/Users/andycopleman/Desktop/nycda/assignments/enchanted-pickle/store.html",
+		"/Users/andycopleman/Desktop/nycda/assignments/enchanted-pickle/gallery.html",
+		"/Users/andycopleman/Desktop/nycda/assignments/enchanted-pickle/index.html",
+		"/Users/andycopleman/Desktop/expand-collapse-search-options.js",
+		"/Users/andycopleman/Desktop/nycda/inclass work/scripts.js",
+		"/Users/andycopleman/Desktop/nycda/inclass work/oct29style.css",
+		"/Users/andycopleman/Desktop/nycda/inclass work/oct29index.html",
+		"/Users/andycopleman/Desktop/nycda/Assignments/javascript-challenges-1.js",
+		"/Users/andycopleman/Desktop/workingCode/tollbrothersMobileStickyNavReskin.js",
+		"/Users/andycopleman/Desktop/workingCode/dyohRoadblockModal.js",
+		"/Users/andycopleman/Desktop/workingCode/andyCoplemanAssignment1NYCDA.html",
+		"/Users/andycopleman/Desktop/workingCode/tb iOS style mobile contact menu.html",
+		"/Users/andycopleman/Desktop/workingCode/ajaxSuccess.js",
+		"/Users/andycopleman/Desktop/workingCode/tb iOS style mobile contact menu.css",
+		"/Users/andycopleman/Desktop/workingCode/insert Call and Text v2.js",
+		"/Users/andycopleman/Desktop/workingCode/insert Call and Text v2.css",
+		"/Users/andycopleman/Desktop/workingCode/teamTreehouseWorkspaces.js",
+		"/Users/andycopleman/Desktop/workingCode/cityLivingMoveCtaToBottomOfPage.js",
+		"/Users/andycopleman/Desktop/workingCode/tbDesktopEmailUsHotspotPinnedToLowerRight.js",
+		"/Users/andycopleman/Desktop/workingCode/tbShowValuePropAboveMobalCTAonCommPage.js",
+		"/Users/andycopleman/Desktop/workingCode/tbNewCalloutsOnSearchPage.js",
+		"/Users/andycopleman/Desktop/workingCode/tbShowValuePropAboveModalCTAonCommPage.css",
+		"/Users/andycopleman/Desktop/workingCode/tbclModalLeadFormTest.css",
+		"/Users/andycopleman/Desktop/workingCode/cityLivingLeadFormModal.js",
+		"/Users/andycopleman/Desktop/workingCode/workspacesTestFile.css",
+		"/Users/andycopleman/Desktop/workingCode/calloutsOnModalEmailSubmission.js",
+		"/Users/andycopleman/Desktop/workingCode/cityLivingLeadFormSucessEvent.js",
+		"/Users/andycopleman/Desktop/workingCode/TBaddValuePropToExposedLeadForm.js",
+		"/Users/andycopleman/Desktop/workingCode/streamlineModalLeadForm.js",
+		"/Users/andycopleman/Desktop/workingCode/TBaddValuePropToExposedLeadForm.css",
+		"/Users/andycopleman/Desktop/workingCode/streamlineModalLeadForm.css",
+		"/Users/andycopleman/Desktop/workingCode/cityLivingInsertNYandNJmetroButtons.html",
+		"/Users/andycopleman/Desktop/workingCode/cityLivingInsertNYandNJmetroButtons.css",
+		"/Users/andycopleman/Desktop/workingCode/tbDesktopInsertConciergeContactLinkInStickyNav.html",
+		"/Users/andycopleman/Desktop/workingCode/tbDesktopInsertConciergeContactLinkInStickyNav.js",
+		"/Users/andycopleman/Desktop/workingCode/tbDesktopInsertConciergeContactLinkInStickyNav.css",
+		"/Users/andycopleman/Desktop/workingCode/treehouseFirstWebapp.js",
+		"/Users/andycopleman/sketching/index.css",
+		"/Users/andycopleman/Desktop/workingCode/Liseter - insertCollectionLinkCTAs.js",
+		"/Users/andycopleman/Desktop/workingCode/Liseter - insertCollectionLinkCTAs.html",
+		"/Users/andycopleman/Desktop/workingCode/ajaxSuccess Lead Form Submission.js",
+		"/Users/andycopleman/Desktop/workingCode/royalPalmPolo - insert CTA on HP.css",
+		"/Users/andycopleman/Desktop/workingCode/royalPalmPolo - insert CTA on HP.html",
+		"/Users/andycopleman/Desktop/Paid Search Target URLs",
+		"/Users/andycopleman/Desktop/workingCode/tbMobileStickyNav.css",
+		"/Users/andycopleman/Desktop/workingCode/tbNewCalloutsOnSearchPage.html",
+		"/Users/andycopleman/Desktop/workingCode/tbnewCalloutsOnSearchPage.css",
+		"/Users/andycopleman/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/andycopleman/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/andycopleman/Desktop/workingCode/loudounvalleyHideCommentsFieldInContactForm.js",
+		"/Users/andycopleman/Desktop/workingCode/loudounvalleyHideCommentsFieldInContactForm.css",
+		"/Users/andycopleman/Desktop/workingCode/tbDesignCenterNameTest.js",
+		"/Users/andycopleman/Desktop/workingCode/tbScheduleAVisitButton.js",
+		"/Users/andycopleman/Desktop/workingCode/tbSuccessfulLeadFormSubmission.js",
+		"/Users/andycopleman/Desktop/workingCode/kapostBlogMakeSubscribeBoxSticky.js",
+		"/Users/andycopleman/Desktop/workingCode/hampdenRowContactGhostButton.js",
+		"/Users/andycopleman/Desktop/workingCode/tb mobile insert phone number below sales CTA.css",
+		"/Users/andycopleman/Desktop/workingCode/tb mobile insert phone number below CTA ghost button.js",
+		"/Users/andycopleman/Desktop/workingCode/tb mobile insert phone number below sales CTA.js",
+		"/Users/andycopleman/Desktop/workingCode/lead Form Sales vs Get More Info.js",
+		"/Users/andycopleman/Desktop/workingCode/Loudon Valley CTAs on Homepage.css",
+		"/Users/andycopleman/Desktop/workingCode/Loudon Valley CTAs on Homepage.html",
+		"/Users/andycopleman/Desktop/workingCode/Loudon Valley insert Phone in Footer.css",
+		"/Users/andycopleman/Desktop/workingCode/Loudon Valley insert Phone in Footer.html",
+		"/Users/andycopleman/Desktop/workingCode/streamlineCTAv2.html",
+		"/Users/andycopleman/Desktop/workingCode/streamlineCTAv2.css",
+		"/Users/andycopleman/Desktop/workingCode/tollbrothers insert homedesigns link on search page.js",
+		"/Users/andycopleman/Desktop/workingCode/communityPageCTAStreamline.html",
+		"/Users/andycopleman/Desktop/Contact CTA verbiage options.txt",
+		"/Users/andycopleman/Desktop/workingCode/tbDesktopChangeSearchBoxStyling.js",
+		"/Users/andycopleman/Desktop/workingCode/regencyAtYardleyV2ModelTest.js",
+		"/Users/andycopleman/Desktop/workingCode/tbChangeSearchBoxToWhite.js",
+		"/Users/andycopleman/Desktop/workingCode/tollbrothersStickyNav.css",
+		"/Users/andycopleman/Desktop/workingCode/tollbrothersStickyNav.js",
+		"/Users/andycopleman/Desktop/workingCode/tollbrothersStickyNav.html",
+		"/Users/andycopleman/Desktop/workingCode/suttonContactNavTestLearnMore.js",
+		"/Users/andycopleman/Desktop/workingCode/hasentreeInsertButtonOnHP.css",
+		"/Users/andycopleman/Desktop/workingCode/hasentreeMakeLinksButtonsNewHomesPage.css",
+		"/Users/andycopleman/Desktop/workingCode/hasentreeMakeLinksButtonsNewHomesPage.js",
+		"/Users/andycopleman/Desktop/workingCode/hasentreeRemoveHighlightInHeader.js",
+		"/Users/andycopleman/Desktop/workingCode/hasentreeInsertButtonOnHP.js",
+		"/Users/andycopleman/Library/Application Support/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/Users/andycopleman/Desktop/workingCode/pierhouseDesktopKitchenImageSwap.css",
+		"/Users/andycopleman/Desktop/workingCode/pierhouseDesktopKitchenImageSwap.html",
+		"/Users/andycopleman/Desktop/workingCode/hampdenRowStickyNavV2.js",
+		"/Users/andycopleman/Desktop/hampdenRowSticyNav.css",
+		"/Users/andycopleman/Desktop/liseterHidingNav",
+		"/Users/andycopleman/Desktop/Gorgeous New Bethesda Residences _ Hampden Row - Residences.html",
+		"/Users/andycopleman/Desktop/Gorgeous New Bethesda Residences _ Hampden Row - Residences_files/hampdenRowResidences.css",
+		"/Users/andycopleman/Desktop/workingCode/tollBrothersExpandedSearchInHeader.css",
+		"/Users/andycopleman/Desktop/workingCode/jupiterccInsertPhoneInFooter.css",
+		"/Users/andycopleman/Desktop/leftTile.html",
+		"/Users/andycopleman/Desktop/workingCode/Hampden Row Mobile - Insert CTA mid page.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}",
+			"{",
+			"}",
+			"{",
+			"-",
+			"\\n",
+			".main-menu li:hover ul.sub-menu:before",
+			"style",
+			"style=\"font-size: 12px;\"",
+			"$",
+			"none",
+			";",
+			"custom_sort_order",
+			"\\n",
+			",",
+			"us|",
+			"\",",
+			"\"value\": \"us|co|",
+			"moveToLeft",
+			"moveToRight",
+			"script",
+			"well",
+			"img-responsive",
+			"seattle",
+			"col-md-8",
+			"<hr>",
+			"\\n",
+			"*/",
+			"/*",
+			"us",
+			".living-here",
+			",",
+			", ",
+			"iosMenu",
+			", ",
+			" ",
+			"blur(",
+			"carrie anne",
+			"red",
+			"\\n",
+			"number2",
+			"number1",
+			"ajax",
+			" ",
+			"!important",
+			"x",
+			"'",
+			"\\",
+			"mark",
+			"</li>",
+			"we will",
+			"\\",
+			"/",
+			" ",
+			" '",
+			" ",
+			";",
+			".lpStaticButtonTR",
+			";",
+			"\"",
+			",",
+			"\"",
+			",",
+			"\"",
+			"red",
+			"url('",
+			"background",
+			"header.subpage .logo",
+			"preload-banner preloaded",
+			" ",
+			"mainBlue ",
+			"mainBlue inpageSubmitButton scClickHook",
+			"mainBlue",
+			"mainBlue clickToContactSalesRepresentative",
+			"preser",
+			"#ad8d2b",
+			"header",
+			"mtf",
+			"916057",
+			"residenceContainer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			", ",
+			"",
+			"residenceContainer916057"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1870,
+								1870
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 2.0,
+						"translation.y": 109.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "assets/css/styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								942,
+								942
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 636.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/CSS3/CSS3.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "great-life-chiro.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
