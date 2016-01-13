@@ -24,6 +24,18 @@ body {
     
 }
 
+.top-nav-links {
+    width: 300px;
+    margin-right: 5%;
+}
+
+ul.submenu {
+    display: none;
+
+    & li {
+        font-size: 1em;
+    }
+}
 
 
 .nav-links {
@@ -31,8 +43,12 @@ body {
     display: flex;
     align-content: center;
     margin-bottom: 0;
+    justify-content: space-around;
+    width: 100%;
+    
     & li {
         margin-right: 40px;
+        font-size: 1.5em;
 
         &:last-of-type {
         	margin-right: 0;	
@@ -42,10 +58,17 @@ body {
     & a {
         text-decoration: none;
     }
-}
 
-.submenu {
-    display: none;
+    & li:hover .submenu {
+        display: flex;
+        flex-direction: column;
+        background-color: #ccc;
+        list-style-type: none;
+        position: absolute;
+        padding: 10px;
+        height: auto;
+        justify-content: space-around;
+    }
 }
 
 .main-content {
@@ -67,5 +90,16 @@ h4.hours {
     font-size: 1.5em;
 }
 
+/*-------------*\
+Begin Video Page
+\*-------------*/
 
+body.videos {
+    background-color: #aeaeae;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
 
