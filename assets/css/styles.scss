@@ -1,3 +1,12 @@
+$accent-background-color: #84DCC6;
+$cta-color: tomato;
+
+* {
+    transition: all .2s ease;
+    flex-wrap: wrap;
+}
+
+
 body {
     margin: 0;
     padding: 0;
@@ -21,7 +30,7 @@ BEGIN Top Nav
 
 
 .top-nav {
-    background-color: tomato;
+    background-color: #D1FFEA;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -53,13 +62,11 @@ ul.submenu {
     list-style-type: none;
     display: flex;
     align-content: center;
-    margin-bottom: 0;
+    margin: 0;
     justify-content: space-around;
-    width: 100%;
     
     & li {
-        margin-right: 40px;
-        font-size: 1.5em;
+        color: #84DCC6;
 
         &:last-of-type {
         	margin-right: 0;	
@@ -107,18 +114,60 @@ BEGIN main container content
 
     & .content-container {
         background-color: rgba(0,0,0,0.6);
-        height: 400px;
+        height: auto;
         width: 800px;
         margin: 100px auto;
         padding: 20px;
         color: white;
         display: flex;
+        flex-direction: column;
 
         & .pill-nav-pills {
             display: flex;
-            flex-direction: row;
+            flex-direction: column;
+            justify-content: space-around;
+        
+            & .nav {
+                display: flex;
+                justify-content: space-around;
+                margin: 15px 0;
+            }
+
+            & li {
+                border: 1px #84DCC6 solid;
+                border-radius: 500px;
+
+
+                & a {
+                    color: white;
+                    padding: 10px 30px;
+
+                    &:hover {
+                        background-color: $accent-background-color;
+                        border-radius: 500px;
+                        box-shadow: 0px 0px 50px #84DCC6;
+                    }
+                }
+
+                &.active a {
+                    background-color: $accent-background-color;
+                    border-radius: 500px;
+                }
+
+
+            }
+        }
+
+        .tab-content .active {
+            display: flex;
             justify-content: space-around;
         }
+    }
+
+    .map-placeholder {
+        background-color: #ccc;
+        height: 300px;
+        width: 300px;
     }
 }
 
