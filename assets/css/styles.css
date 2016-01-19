@@ -46,6 +46,13 @@ ul.submenu {
 /*---------*\
 END Top Nav
 \*---------*/
+div.profile-container {
+  margin-top: 400px; }
+
+img {
+  border-radius: 50rem;
+  display: inline-block; }
+
 * {
   transition: all .2s ease;
   flex-wrap: wrap; }
