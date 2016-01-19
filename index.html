@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <title>Great Life Chiropractic</title>
     <link type="text/css" href="assets/css/styles.css" rel="stylesheet">
-    <link type="text/css" href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
+    <link rel="stylesheet" href="assets/css/milligram.min.css">
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="assets/javascript/scripts.js"></script>
-    <script src="assets/javascript/bootstrap.min.js"></script>
 </head>
 
 <body class="mainpage">
@@ -45,59 +45,48 @@
                 </ul>
             </div>
     </nav>
-    <div class="main-container">
-        <div class="content-container">
-            <div class="pill-nav-pills">
-                <ul class="nav nav-pills">
-                    <li class="active">
-                        <a data-toggle="pill" href="#home">Contact Us</a>
-                    </li>
-                    <li>
-                        <a data-toggle="pill" href="#menu1">Schedule</a>
-                    </li>
-                    <li>
-                        <a data-toggle="pill" href="#menu2">About Us</a>
-                    </li>
-                </ul>
-            </div>
 
-            <div class="pill-nav-content">
-                <div class="tab-content">
-                    <div id="home" class=" tab-pane fade in active">
-                        <!-- <h3>Contact Us</h3> -->
-                        <div class="contact-us physical-info">
-                            <!-- <div class="map-placeholder">
-                            </div> -->
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3053.8918233541335!2d-75.2377056851227!3d40.05551497940871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b8ddd13c4e7b%3A0xcac4b031b6d3ac1f!2sGreat+Life+Chiropractic+%26+Massage!5e0!3m2!1sen!2sus!4v1452575142374" width="500" height="300" frameborder="20" style="border:0" allowfullscreen></iframe>
-                        </div>
-                        <div class="contact-us">
-                            <div class="hours">
-                                <h4>Chiropractic Hours</h4>
-                                <p>Monday - Thursday</p>
-                                <p>9am - 1pm, 3pm - 7pm</p>
-                            </div>
-                            <hr>
-                            <div class="hours">
-                                <h4>Massage Therapy Hours</h4>
-                                <p>By Appointment Monday - Saturday</p>
-                            </div>
-                        </div>
-    <!--                     <div class="contact-us schedule col-md-4">
-                            ugly mindbody button
-                        </div> -->
-                    </div>
-                    <div id="menu1" class="tab-pane fade">
-                        <h3>Schedule</h3>
-                        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                    </div>
-                    <div id="menu2" class="tab-pane fade">
-                        <h3>About Us</h3>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-                    </div>
+
+    <section class="tabs container">
+        <ul class="tab-links row">
+            <li class="active column">
+                <a href="#contact-us">Contact Us</a>
+            </li>
+            <li class="column">
+                <a href="#schedule-appt">Schedule an Appointment</a>
+            </li>
+            <li class="column">
+                <a href="#learn-more">About Us</a>
+            </li>
+        </ul>
+     
+        <div class="tab-content">
+            <div id="contact-us" class="tab active row">
+                <div class="map column">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3053.891639352083!2d-75.23770568522417!3d40.055519085453206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b8ddd13c4e7b%3A0xcac4b031b6d3ac1f!2sGreat+Life+Chiropractic+%26+Massage!5e0!3m2!1sen!2sus!4v1453176411186" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
+                <div class="hours column">
+                    <h3>Chiropractic Hours</h3>
+                    <p>Monday - Thursdays</p>
+                    <p>9am - 1pm, 3pm - 7pm</p>
+                <hr>
+                    <h3>Massage Hours</h3>
+                    <p>Monday - Saturday</p>
+                    <p>By appointment only</p>
                 </div>
             </div>
+     
+            <div id="schedule-appt" class="tab">
+                <p>Schedule an Appointment</p>
+                <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
+            </div>
+     
+            <div id="learn-more" class="tab">
+                <p>About Us</p>
+                <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum ri.</p>
+            </div>
         </div>
-    </div>
+    </section>
 </body>
 
 </html>

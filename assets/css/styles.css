@@ -1,17 +1,3 @@
-* {
-  transition: all .2s ease;
-  flex-wrap: wrap; }
-
-body {
-  margin: 0;
-  padding: 0;
-  background-color: black; }
-
-.mainpage {
-  background-image: url("../images/woman-jogging.jpg");
-  background-repeat: no-repeat;
-  background-size: cover; }
-
 /*---------*\
 BEGIN Top Nav
 \*---------*/
@@ -23,7 +9,8 @@ BEGIN Top Nav
   padding: 15px 40px;
   position: fixed;
   width: 100%;
-  z-index: 9; }
+  z-index: 9;
+  top: 0px; }
 
 .top-nav-links {
   width: 300px;
@@ -59,64 +46,48 @@ ul.submenu {
 /*---------*\
 END Top Nav
 \*---------*/
+* {
+  transition: all .2s ease;
+  flex-wrap: wrap; }
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black; }
+
+.mainpage {
+  background-image: url("../images/woman-jogging.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; }
+
 /*---------*\
 BEGIN main container content
 \*---------*/
-.main-container {
+.row .column {
   display: flex; }
-  .main-container .content-container {
-    background-color: rgba(0, 0, 0, 0.6);
-    height: auto;
-    width: 800px;
-    margin: 100px auto;
-    padding: 20px;
-    color: white;
-    display: flex;
-    flex-direction: column; }
-    .main-container .content-container .pill-nav-pills {
-      display: flex;
-      flex-direction: column;
-      justify-content: space-around; }
-      .main-container .content-container .pill-nav-pills .nav {
-        display: flex;
-        justify-content: space-around;
-        margin: 15px 0; }
-      .main-container .content-container .pill-nav-pills li {
-        border: 1px #84DCC6 solid;
-        border-radius: 500px; }
-        .main-container .content-container .pill-nav-pills li a {
-          color: white;
-          padding: 10px 30px; }
-          .main-container .content-container .pill-nav-pills li a:hover {
-            background-color: #84DCC6;
-            border-radius: 500px;
-            box-shadow: 0px 0px 50px #84DCC6; }
-        .main-container .content-container .pill-nav-pills li.active a {
-          background-color: #84DCC6;
-          border-radius: 500px; }
-    .main-container .content-container .tab-content .active {
-      display: flex;
-      justify-content: space-around; }
-  .main-container .map-placeholder {
-    background-color: #ccc;
-    height: 300px;
-    width: 300px; }
 
-h4.hours {
-  text-align: center;
-  font-size: 1.5em; }
+section.tabs.container {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  margin-top: 20rem;
+  padding: 2rem; }
 
-/*---------*\
-END main container content
-\*---------*/
-/*-------------*\
-Begin Video Page
-\*-------------*/
-body.videos {
-  background-color: #aeaeae; }
+.tab {
+  display: none; }
 
-img {
-  display: block;
-  margin: 0 auto; }
+ul.tab-links.row a {
+  border: 1px solid #84DCC6;
+  display: flex;
+  padding: 0.5rem;
+  justify-content: space-around;
+  border-radius: 5rem;
+  color: white; }
+  ul.tab-links.row a:hover {
+    background-color: #84DCC6;
+    box-shadow: 0px 0px 50px #84DCC6; }
+
+.tab-content {
+  width: 100%; }
 
 /*# sourceMappingURL=styles.css.map */
