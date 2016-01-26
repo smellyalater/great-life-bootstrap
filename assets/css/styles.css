@@ -56,6 +56,7 @@ ul.submenu {
 /*---------*\
 END Top Nav
 \*---------*/
+<<<<<<< HEAD
 /*----------*\
 BEGIN - About Us Profiles
 \*----------*/
@@ -103,6 +104,18 @@ BEGIN Contact Us Container
 /*---------*\
 BEGIN Contact Us Container
 \*---------*/
+=======
+div.profile-container {
+  margin-top: 400px; }
+
+div.profile {
+  align-items: center; }
+
+img {
+  border-radius: 50rem;
+  width: 100%; }
+
+>>>>>>> master
 * {
   flex-wrap: wrap; }
 
