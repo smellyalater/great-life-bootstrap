@@ -1,0 +1,42 @@
+$accent-background-color: #84DCC6;
+
+
+
+/*----------*\
+BEGIN - About Us Profiles
+\*----------*/
+
+
+
+
+
+.profile-container img {
+  border-radius: 50rem;
+  width: 100%;
+}
+
+div.profile {
+	align-items: center;
+
+	&.row {
+		margin: 5rem 0;
+		background: black;
+	    margin: 5rem 0;
+    	background: black;
+    	padding: 2rem;
+		border-left: 1rem solid $accent-background-color;
+
+		& > div {
+			margin-bottom: 0;
+			display: flex;
+		}
+	}
+}
+
+
+
+
+
+/*----------*\
+END - About Us Profiles
+\*----------*/
