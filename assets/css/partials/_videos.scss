@@ -1,0 +1,31 @@
+/*---------*\
+BEGIN Videos Styling
+\*---------*/
+
+.video-container {
+	display: flex;
+	// align-content: center;
+	// flex-direction: column;
+	// height: 20rem;
+}
+
+.video-thumbnail iframe {
+	width: 100%;
+    margin: 1rem 0;
+    border: .1rem solid grey;
+}
+
+.video-row {
+    height: 50rem;
+}
+
+
+
+
+
+
+
+
+/*---------*\
+END Videos Styling
+\*---------*/

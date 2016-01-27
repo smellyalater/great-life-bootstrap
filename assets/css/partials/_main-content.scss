@@ -1,0 +1,55 @@
+
+
+/*---------*\
+BEGIN main container styling
+\*---------*/
+
+.container .row .column {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+section.tabs.container {
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+    margin-top: 5rem;
+    padding: 2rem;
+}
+
+ .tab {
+    display:none;
+}
+
+// ul.tab-links.row {
+
+
+//     & li {
+
+//     }
+
+//     & a {
+//         border: .1rem solid $accent-background-color;
+//         display: flex;
+//         padding: 0.5rem;
+//         // width: 225px;
+//         justify-content: space-around;
+//         color: white;
+//         width: 21rem;
+//         align-items: center;
+
+//         &:hover {
+//             background-color: $accent-background-color;
+//             box-shadow: 0px 0px 50px $accent-background-color;
+//         }
+//     }
+// }
+
+.tab-content {
+    width: 100%;
+}
+
+
+/*---------*\
+END main container styling
+\*---------*/
