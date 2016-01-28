@@ -375,7 +375,11 @@
 			"file": "aboutus.html",
 			"settings":
 			{
+<<<<<<< HEAD
+				"buffer_size": 4041,
+=======
 				"buffer_size": 2746,
+>>>>>>> master
 				"line_ending": "Unix"
 			}
 		},
@@ -391,7 +395,11 @@
 			"file": "assets/css/styles.css",
 			"settings":
 			{
+<<<<<<< HEAD
+				"buffer_size": 3139,
+=======
 				"buffer_size": 1875,
+>>>>>>> master
 				"line_ending": "Unix"
 			}
 		},
@@ -399,7 +407,11 @@
 			"file": "assets/css/partials/_about-us-profile.scss",
 			"settings":
 			{
+<<<<<<< HEAD
+				"buffer_size": 1769,
+=======
 				"buffer_size": 106,
+>>>>>>> master
 				"line_ending": "Unix"
 			}
 		}
@@ -597,6 +609,8 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+<<<<<<< HEAD
+=======
 	"expanded_folders":
 	[
 		"/Users/andycopleman/Desktop/nycda/great-life-chiro-bootstrap",
@@ -604,6 +618,7 @@
 		"/Users/andycopleman/Desktop/nycda/great-life-chiro-bootstrap/assets/css",
 		"/Users/andycopleman/Desktop/nycda/great-life-chiro-bootstrap/assets/css/partials"
 	],
+>>>>>>> master
 	"file_history":
 	[
 		"/Users/andycopleman/Desktop/nycda/great-life-chiro-bootstrap/assets/css/partials/_about-us-profile.scss",
@@ -874,15 +889,24 @@
 					"semi_transient": false,
 					"settings":
 					{
+<<<<<<< HEAD
+						"buffer_size": 4041,
+=======
 						"buffer_size": 2746,
+>>>>>>> master
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
+								0,
+								0
+=======
 								1808,
 								1808
+>>>>>>> master
 							]
 						],
 						"settings":
@@ -890,6 +914,8 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+<<<<<<< HEAD
+=======
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -900,16 +926,32 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+>>>>>>> master
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+<<<<<<< HEAD
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+=======
+>>>>>>> master
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+<<<<<<< HEAD
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+=======
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -920,6 +962,7 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+>>>>>>> master
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -930,28 +973,59 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
+<<<<<<< HEAD
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+=======
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+>>>>>>> master
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
+<<<<<<< HEAD
+								"bh_unmatched_content"
+=======
 								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content"
+>>>>>>> master
 							],
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+<<<<<<< HEAD
+						"translation.y": 0.0,
+=======
 						"translation.y": 728.0,
+>>>>>>> master
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -979,6 +1053,8 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+<<<<<<< HEAD
+=======
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -989,16 +1065,32 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+>>>>>>> master
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+<<<<<<< HEAD
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+=======
+>>>>>>> master
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+<<<<<<< HEAD
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+=======
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -1009,6 +1101,7 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+>>>>>>> master
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -1019,21 +1112,48 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
+<<<<<<< HEAD
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+=======
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+>>>>>>> master
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
+<<<<<<< HEAD
+								"bh_unmatched_content"
+=======
 								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content"
+>>>>>>> master
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 							"syntax": "Packages/HTML/HTML.tmLanguage",
@@ -1059,15 +1179,24 @@
 					"semi_transient": false,
 					"settings":
 					{
+<<<<<<< HEAD
+						"buffer_size": 3139,
+=======
 						"buffer_size": 1875,
+>>>>>>> master
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
+								796,
+								796
+=======
 								968,
 								968
+>>>>>>> master
 							]
 						],
 						"settings":
@@ -1075,6 +1204,8 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+<<<<<<< HEAD
+=======
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1085,16 +1216,32 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+>>>>>>> master
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+<<<<<<< HEAD
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+=======
+>>>>>>> master
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+<<<<<<< HEAD
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+=======
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -1105,6 +1252,7 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+>>>>>>> master
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -1115,21 +1263,48 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
+<<<<<<< HEAD
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+=======
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+>>>>>>> master
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
+<<<<<<< HEAD
+								"bh_unmatched_content"
+=======
 								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content"
+>>>>>>> master
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 							"syntax": "Packages/CSS3/CSS3.tmLanguage",
@@ -1137,10 +1312,17 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+<<<<<<< HEAD
+						"translation.y": 804.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+=======
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+>>>>>>> master
 					"type": "text"
 				},
 				{
@@ -1149,7 +1331,11 @@
 					"semi_transient": false,
 					"settings":
 					{
+<<<<<<< HEAD
+						"buffer_size": 1769,
+=======
 						"buffer_size": 106,
+>>>>>>> master
 						"regions":
 						{
 						},
@@ -1262,7 +1448,11 @@
 		"cols":
 		[
 			0.0,
+<<<<<<< HEAD
+			0.452795109125,
+=======
 			0.5,
+>>>>>>> master
 			1.0
 		],
 		"rows":
@@ -1322,7 +1512,11 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
+<<<<<<< HEAD
+	"side_bar_width": 209.0,
+=======
 	"side_bar_width": 174.0,
+>>>>>>> master
 	"status_bar_visible": true,
 	"template_settings":
 	{

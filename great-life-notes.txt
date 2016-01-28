@@ -1,0 +1,3 @@
+• html 5 has a video player API
+	- use that for the video player page?
+

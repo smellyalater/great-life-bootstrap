@@ -1,0 +1,154 @@
+$accent-background-color: #84DCC6;
+
+
+
+
+
+/*----------*\
+BEGIN - About Us Profiles
+\*----------*/
+
+
+
+
+
+.profile-container {
+	display: flex;
+	flex-direction: column;
+}
+
+
+
+.profile-row {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background: black;
+    border-left: 1rem solid #84DCC6;
+    padding: 2rem;
+    flex-wrap: wrap;
+    flex: 1;
+    margin: 2rem 0;
+}
+
+.image-holder {
+    display: flex;
+    width: 100%;
+    flex-direction: inherit;
+    flex: 2;
+    align-items: center;
+}
+
+.image-holder img {
+    border-radius: 50rem;
+    width: 100%;
+    height: 100%;
+}
+
+div.profile-details {
+    /* max-width: 100%; */
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+    flex: 3;
+    flex-direction: inherit;
+}
+
+.profile-contact {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+@media all and (max-width: 40rem) {
+    .profile-row {
+        flex: 1;
+        flex-direction: column;
+    }
+}
+
+// div.profile {
+//   align-items: center;
+// }
+
+// div.profile.row {
+//   margin: 5rem 0;
+//   background: black;
+//   margin: 5rem 0;
+//   background: black;
+//   padding: 2rem;
+//   border-left: 1rem solid #84DCC6;
+// }
+
+// div.profile.row .profile-details {
+//   max-width: 100%;
+// }
+
+// div.profile.row > div {
+//   margin-bottom: 0;
+//   display: flex;
+// }
+
+
+
+
+
+/*----------*\
+END - About Us Profiles
+\*----------*/
+
+
+
+
+
+
+
+
+
+// /*----------*\
+// BEGIN - About Us Profiles
+// \*----------*/
+
+
+
+
+
+// .profile-container img {
+//   border-radius: 50rem;
+//   width: 100%;
+//   height: 100%;
+// }
+
+// div.profile-details {
+// 	max-width: 100%;
+// }
+
+// div.profile {
+// 	align-items: center;
+
+// 	&.row {
+// 		margin: 5rem 0;
+// 		background: black;
+// 	    margin: 5rem 0;
+//     	background: black;
+//     	padding: 2rem;
+// 		border-left: 1rem solid $accent-background-color;
+
+// 		& .profile-details {
+// 			max-width: 100%;
+// 		}
+
+// 		& > div {
+// 			margin-bottom: 0;
+// 			display: flex;
+// 		}
+// 	}
+// }
+
+
+
+
+
+// /*----------*\
+// END - About Us Profiles
+// \*----------*/

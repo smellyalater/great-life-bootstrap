@@ -1,0 +1,38 @@
+$accent-background-color: #84DCC6;
+$cta-color: tomato;
+
+
+
+/*---------*\
+BEGIN Contact Us Container
+\*---------*/
+
+.map iframe {
+	width: 100%;
+	border: none;
+	height: 40rem;
+}
+
+.tab.row {
+	justify-content: space-between;
+}
+
+#contact-us .hours {
+	justify-content: flex-start;
+}
+
+.hour-details {
+	margin-bottom: 3rem;
+	font-size: 2rem;
+
+	& h3 {
+		border-bottom: .1rem solid $accent-background-color;
+		margin-bottom: .5rem;
+	}
+}
+
+
+
+/*---------*\
+END Contact Us Container
+\*---------*/

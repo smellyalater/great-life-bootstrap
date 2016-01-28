@@ -1,12 +1,15 @@
 @import "partials/top-nav";
-@import "partials/about-us-profile";
+@import "partials/contact-us";
+@import "partials/about-us";
+@import "partials/main-content";
+@import "partials/videos";
 
 $accent-background-color: #84DCC6;
 $cta-color: tomato;
 
 
 * {
-    transition: all .2s ease;
+    // transition: all .2s ease;
     flex-wrap: wrap;
 }
 
@@ -17,156 +20,18 @@ body {
     background-color: black;
 }
 
-.mainpage {
-    background-image: url('../images/woman-jogging.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
-
-
-/*---------*\
-BEGIN main container content
-\*---------*/
-
-.row .column {
-    display: flex;
-}
-
-
-section.tabs.container {
-    background-color: rgba(0,0,0,0.6);
-    color: white;
-    margin-top: 20rem;
-    padding: 2rem;
-}
-
- .tab {
-    display:none;
-}
-
-ul.tab-links.row {
-    // margin: 20px;
-    // text-align: center;
-
-    & li {
-        // margin: 20px;
-        // // width: 100px;
-        // display: block;
-    }
-
-    & a {
-        border: 1px solid $accent-background-color;
-        display: flex;
-        padding: 0.5rem;
-        // width: 225px;
-        justify-content: space-around;
-        border-radius: 5rem;
-        color: white;
-
-        &:hover {
-            background-color: $accent-background-color;
-            box-shadow: 0px 0px 50px $accent-background-color;
-        }
-    }
-}
-
-.tab-content {
+.background-image img {
     width: 100%;
+    z-index: -1;
+    position: fixed;
+    top: 0;
 }
 
-
-
-// .main-container {
-//     display: flex;
-//     // height: 645px;
-
-//     & .content-container {
-//         background-color: rgba(0,0,0,0.6);
-//         height: auto;
-//         width: 800px;
-//         margin: 100px auto;
-//         padding: 20px;
-//         color: white;
-//         display: flex;
-//         flex-direction: column;
-
-//         & .pill-nav-pills {
-//             display: flex;
-//             flex-direction: column;
-//             justify-content: space-around;
-        
-//             & .nav {
-//                 display: flex;
-//                 justify-content: space-around;
-//                 margin: 15px 0;
-//             }
-
-//             & li {
-//                 border: 1px #84DCC6 solid;
-//                 border-radius: 500px;
-
-
-//                 & a {
-//                     color: white;
-//                     padding: 10px 30px;
-
-//                     &:hover {
-//                         background-color: $accent-background-color;
-//                         border-radius: 500px;
-//                         box-shadow: 0px 0px 50px #84DCC6;
-//                     }
-//                 }
-
-//                 &.active a {
-//                     background-color: $accent-background-color;
-//                     border-radius: 500px;
-//                 }
-
-
-//             }
-//         }
-
-//         .tab-content .active {
-//             display: flex;
-//             justify-content: space-around;
-//         }
-//     }
-
-//     .map-placeholder {
-//         background-color: #ccc;
-//         height: 300px;
-//         width: 300px;
-//     }
+// .mainpage {
+//     background-image: url('../images/woman-jogging.jpg');
+//     background-repeat: no-repeat;
+//     background-size: cover;
+//     background-attachment: fixed;
 // }
 
-// h4.hours {
-//     text-align: center;
-//     font-size: 1.5em;
-// }
-
-
-
-
-// /*---------*\
-// END main container content
-// \*---------*/
-
-
-
-
-
-// /*-------------*\
-// Begin Video Page
-// \*-------------*/
-
-// body.videos {
-//     background-color: #aeaeae;
-// }
-
-// img {
-//     display: block;
-//     margin: 0 auto;
-// }
 

@@ -7,10 +7,10 @@ $(document).ready(function() {
         var currentAttrValue = $(this).attr('href');
  
         // Show/Hide Tabs
-        $('.tabs ' + currentAttrValue).fadeIn(400).siblings().hide();
+        $('.tabs ' + currentAttrValue).fadeIn(400).css('display', 'flex').siblings().hide();
  
         // Change/remove current tab to active
-        $(this).parent('li').addClass('active').siblings().removeClass('active');
+        // $(this).parent('li').addClass('active').siblings().removeClass('active');
  
         e.preventDefault();
     });
