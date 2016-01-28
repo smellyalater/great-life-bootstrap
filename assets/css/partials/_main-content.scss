@@ -1,10 +1,8 @@
-
-
 /*---------*\
 BEGIN main container styling
 \*---------*/
 
-.container .row .column {
+.container {
     display: flex;
     justify-content: space-around;
 }
@@ -13,13 +11,90 @@ BEGIN main container styling
 section.tabs.container {
     background-color: rgba(0,0,0,0.6);
     color: white;
-    margin-top: 5rem;
+    margin-top: 20rem;
     padding: 2rem;
+    display: flex;
 }
 
  .tab {
     display:none;
 }
+
+ul.tab-links {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+
+
+
+    & li {
+    	list-style: none;
+    	display: flex;
+
+
+    }
+
+    & a {
+        border: .1rem solid $accent-background-color;
+        display: flex;
+        padding: 0.5rem;
+        // width: 225px;
+        justify-content: space-around;
+        color: white;
+        width: 21rem;
+        align-items: center;
+
+        &:hover {
+            background-color: $accent-background-color;
+            box-shadow: 0px 0px 50px $accent-background-color;
+        }
+    }
+}
+
+.tab-content {
+    width: 100%;
+}
+
+
+/*---------*\
+END main container styling
+\*---------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// /*---------*\
+// BEGIN main container styling
+// \*---------*/
+
+// .container .row .column {
+//     display: flex;
+//     justify-content: space-around;
+// }
+
+
+// section.tabs.container {
+//     background-color: rgba(0,0,0,0.6);
+//     color: white;
+//     margin-top: 20rem;
+//     padding: 2rem;
+// }
+
+//  .tab {
+//     display:none;
+// }
 
 // ul.tab-links.row {
 
@@ -45,11 +120,11 @@ section.tabs.container {
 //     }
 // }
 
-.tab-content {
-    width: 100%;
-}
+// .tab-content {
+//     width: 100%;
+// }
 
 
-/*---------*\
-END main container styling
-\*---------*/
+// /*---------*\
+// END main container styling
+// \*---------*/
