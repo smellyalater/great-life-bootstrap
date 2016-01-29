@@ -3,9 +3,27 @@
 @import "partials/about-us";
 @import "partials/main-content";
 @import "partials/videos";
+@import "partials/schedule-appt";
 
 $accent-background-color: #84DCC6;
 $cta-color: tomato;
+
+// @mixin button() {
+// 	background-color: $accent-background-color;
+// 	color: white;
+// 	padding: 1rem 5rem;
+// 	display: flex;
+
+// 	&:hover {
+// 		background-color: $accent-background-color;
+// 		box-shadow: 0px 0px 50px $accent-background-color;
+// 	}
+// }
+
+hr {
+	width: 50%;
+	border-color: $accent-background-color;
+}
 
 
 * {
@@ -26,6 +44,15 @@ body {
     position: fixed;
     top: 0;
 }
+
+
+@media all and (max-width: 800px) {
+    ul.tab-links {
+        flex: 1;
+        flex-direction: column;
+    }
+}
+
 
 // .mainpage {
 //     background-image: url('../images/woman-jogging.jpg');

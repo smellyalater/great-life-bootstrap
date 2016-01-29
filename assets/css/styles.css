@@ -65,18 +65,43 @@ BEGIN Contact Us Container
   border: none;
   height: 40rem; }
 
-.tab.row {
+.tab.active {
+  display: flex;
   justify-content: space-between; }
 
 #contact-us .hours {
   justify-content: flex-start; }
 
 .hour-details {
-  margin-bottom: 3rem;
-  font-size: 2rem; }
+  margin: 1rem;
+  font-size: 2rem;
+  flex: 1;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-around; }
   .hour-details h3 {
     border-bottom: 0.1rem solid #84DCC6;
     margin-bottom: .5rem; }
+  .hour-details .phone-holder {
+    display: flex;
+    justify-content: center;
+    align-content: center; }
+    .hour-details .phone-holder a {
+      background-color: #84DCC6;
+      padding: 1rem 2rem;
+      color: white;
+      display: flex;
+      padding: 1rem 5rem;
+      justify-content: center; }
+    .hour-details .phone-holder a:hover {
+      background-color: #84DCC6;
+      box-shadow: 0px 0px 50px #84DCC6;
+      color: white; }
+
+.map {
+  flex: 2;
+  margin: 1rem;
+  display: flex; }
 
 /*---------*\
 END Contact Us Container
@@ -141,7 +166,7 @@ BEGIN main container styling
 section.tabs.container {
   background-color: rgba(0, 0, 0, 0.6);
   color: white;
-  margin-top: 20rem;
+  margin-top: 10rem;
   padding: 2rem;
   display: flex; }
 
@@ -151,7 +176,7 @@ section.tabs.container {
 ul.tab-links {
   display: flex;
   width: 100%;
-  justify-content: space-between; }
+  justify-content: space-around; }
   ul.tab-links li {
     list-style: none;
     display: flex; }
@@ -170,6 +195,10 @@ ul.tab-links {
 .tab-content {
   width: 100%; }
 
+@media all and (max-width: 800px) {
+  ul.tab-links {
+    flex: 1;
+    flex-direction: column; } }
 /*---------*\
 END main container styling
 \*---------*/
@@ -190,6 +219,50 @@ BEGIN Videos Styling
 /*---------*\
 END Videos Styling
 \*---------*/
+/*--------*\
+BEGIN Schedule Appt Css
+\*--------*/
+.chiro-hours {
+  display: flex; }
+
+.massage-hours {
+  display: flex; }
+
+.hour-details div {
+  display: flex;
+  flex-direction: column; }
+
+.ways-to-schedule-appt {
+  display: flex;
+  flex-direction: column;
+  flex: 2;
+  justify-content: space-around; }
+  .ways-to-schedule-appt div {
+    display: flex;
+    justify-content: center;
+    background: #84DCC6;
+    width: 33%;
+    margin: 0 auto;
+    color: white; }
+    .ways-to-schedule-appt div a {
+      display: flex;
+      justify-content: center;
+      background: #84DCC6;
+      padding: 1rem 5rem;
+      color: white;
+      width: 100%; }
+      .ways-to-schedule-appt div a:hover {
+        background-color: #84DCC6;
+        box-shadow: 0px 0px 50px #84DCC6;
+        color: white; }
+
+/*--------*\
+BEGIN Schedule Appt Css
+\*--------*/
+hr {
+  width: 50%;
+  border-color: #84DCC6; }
+
 * {
   flex-wrap: wrap; }
 
@@ -203,5 +276,10 @@ body {
   z-index: -1;
   position: fixed;
   top: 0; }
+
+@media all and (max-width: 800px) {
+  ul.tab-links {
+    flex: 1;
+    flex-direction: column; } }
 
 /*# sourceMappingURL=styles.css.map */

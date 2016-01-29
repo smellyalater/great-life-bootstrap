@@ -11,8 +11,12 @@ $(document).ready(function() {
  
         // Change/remove current tab to active
         // $(this).parent('li').addClass('active').siblings().removeClass('active');
- 
+
+        //change url on click
+        document.location.hash = currentAttrValue;
         e.preventDefault();
+
+        $(document).scrollTop(0);
     });
 
 

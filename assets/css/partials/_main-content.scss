@@ -11,7 +11,7 @@ BEGIN main container styling
 section.tabs.container {
     background-color: rgba(0,0,0,0.6);
     color: white;
-    margin-top: 20rem;
+    margin-top: 10rem;
     padding: 2rem;
     display: flex;
 }
@@ -23,7 +23,7 @@ section.tabs.container {
 ul.tab-links {
 	display: flex;
 	width: 100%;
-	justify-content: space-between;
+	justify-content: space-around;
 
 
 
@@ -55,7 +55,12 @@ ul.tab-links {
     width: 100%;
 }
 
-
+@media all and (max-width: 800px) {
+    ul.tab-links {
+        flex: 1;
+        flex-direction: column;
+    }
+}
 /*---------*\
 END main container styling
 \*---------*/

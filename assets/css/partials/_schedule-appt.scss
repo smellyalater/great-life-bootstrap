@@ -1,0 +1,69 @@
+/*--------*\
+BEGIN Schedule Appt Css
+\*--------*/
+
+@mixin button() {
+	background-color: $accent-background-color;
+	color: white;
+	padding: 1rem 5rem;
+	display: flex;
+
+	&:hover {
+		background-color: $accent-background-color;
+		box-shadow: 0px 0px 50px $accent-background-color;
+	}
+}
+
+
+
+.chiro-hours {
+    display: flex;
+}
+
+.massage-hours {
+    display: flex;
+}
+
+.hour-details div {
+	display: flex; 
+	flex-direction: column;
+}
+
+.ways-to-schedule-appt {
+	display: flex;
+	flex-direction: column;
+	flex: 2;
+	justify-content: space-around;
+	
+	& div {
+	    display: flex;
+	    justify-content: center;
+	    background: $accent-background-color;
+	    width: 33%;
+	    margin: 0 auto;
+	    color: white;
+
+
+		& a {
+		    display: flex;
+		    justify-content: center;
+		    background: $accent-background-color;
+		    padding: 1rem 5rem;
+		    color: white;
+		    width: 100%;
+
+	        &:hover {
+		    	background-color: $accent-background-color;
+	    		box-shadow: 0px 0px 50px $accent-background-color;
+	    		color: white;
+	    	}
+		}
+	}
+}
+
+
+
+
+/*--------*\
+BEGIN Schedule Appt Css
+\*--------*/
