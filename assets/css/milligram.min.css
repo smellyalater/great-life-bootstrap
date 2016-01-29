@@ -432,12 +432,12 @@ dd {
     margin-bottom: 1rem
 }
 
-hr {
+/*hr {
     border-top: 0.1rem solid #f4f5f6;
     border-width: 0;
     margin-bottom: 3.5rem;
     margin-top: 3rem
-}
+}*/
 
 .button,
 button {

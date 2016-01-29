@@ -13,7 +13,10 @@ BEGIN Contact Us Container
 	height: 40rem;
 }
 
-.tab.row {
+
+
+.tab.active {
+	display: flex;
 	justify-content: space-between;
 }
 
@@ -22,14 +25,50 @@ BEGIN Contact Us Container
 }
 
 .hour-details {
-	margin-bottom: 3rem;
+	margin: 1rem;
 	font-size: 2rem;
+	flex: 1;
+	flex-direction: column;
+	display: flex;
+	justify-content: space-around;
 
 	& h3 {
 		border-bottom: .1rem solid $accent-background-color;
 		margin-bottom: .5rem;
 	}
+
+	.phone-holder {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    & a {
+    	background-color: $accent-background-color;
+	    padding: 1rem 2rem;
+	    color: white;
+	    display: flex;
+	    padding: 1rem 5rem;
+	    justify-content: center;
+    }
+
+
+        & a:hover {
+	    	background-color: $accent-background-color;
+    		box-shadow: 0px 0px 50px $accent-background-color;
+    		color: white;
+    	}
+	}	
+
 }
+
+.map {
+    flex: 2;
+    margin: 1rem;
+    display: flex;
+}
+
+
+
 
 
 
