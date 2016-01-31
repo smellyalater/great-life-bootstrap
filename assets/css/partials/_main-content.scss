@@ -2,6 +2,14 @@
 BEGIN main container styling
 \*---------*/
 
+
+
+
+
+$accent-background-color: #84DCC6;
+$cta-color: tomato;
+
+
 .container {
     display: flex;
     justify-content: space-around;
@@ -20,6 +28,10 @@ section.tabs.container {
     display:none;
 }
 
+.active {
+    background-color: $accent-background-color; 
+}
+
 ul.tab-links {
 	display: flex;
 	width: 100%;
@@ -30,19 +42,17 @@ ul.tab-links {
     & li {
     	list-style: none;
     	display: flex;
-
-
+        border: .1rem solid $accent-background-color;
+        width: 21rem;
     }
 
     & a {
-        border: .1rem solid $accent-background-color;
         display: flex;
         padding: 0.5rem;
-        // width: 225px;
         justify-content: space-around;
         color: white;
-        width: 21rem;
         align-items: center;
+        width: 100%;
 
         &:hover {
             background-color: $accent-background-color;
@@ -55,8 +65,28 @@ ul.tab-links {
     width: 100%;
 }
 
-@media all and (max-width: 800px) {
-    ul.tab-links {
+@media all and (max-width: 768px) {
+    .tabs.container {
+        flex: 1;
+        flex-direction: column;
+
+        & li {
+            flex: inherit;
+            flex-direction: inherit;
+            align-items: center;
+            margin: .5rem;
+            width: 100%;
+        }
+
+        .hour-details, .maps {
+            flex-basis: 100%;
+        }
+
+    }
+
+
+
+    ul.tab-links, .tab-content {
         flex: 1;
         flex-direction: column;
     }
