@@ -60,7 +60,7 @@ div.profile-details {
     align-items: center;
 }
 
-@media all and (max-width: 40rem) {
+@media all and (max-width: 768px) {
     .profile-row {
         flex: 1;
         flex-direction: column;

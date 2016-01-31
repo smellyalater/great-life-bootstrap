@@ -1,4 +1,21 @@
+function loadPageToCorrectHash() {
+    var windowHash = window.location.hash;
+    var sectionId = ('a[href='+ windowHash + ']');
+
+
+    $('.tabs ' + windowHash).fadeIn(400).css('display', 'flex').siblings().hide();
+
+    $(sectionId).parent().addClass('active').siblings().removeClass('active');
+
+    // WHY won't this work? 
+    // $(document).scrollTOP(0);
+
+}
+
+
 $(document).ready(function() {
+
+    loadPageToCorrectHash();
 
 
 
@@ -10,7 +27,7 @@ $(document).ready(function() {
         $('.tabs ' + currentAttrValue).fadeIn(400).css('display', 'flex').siblings().hide();
  
         // Change/remove current tab to active
-        // $(this).parent('li').addClass('active').siblings().removeClass('active');
+        $(this).parent('li').addClass('active').siblings().removeClass('active');
 
         //change url on click
         document.location.hash = currentAttrValue;
@@ -19,5 +36,5 @@ $(document).ready(function() {
         $(document).scrollTop(0);
     });
 
-
+// $(document).scrollTop(0);
 });

@@ -95,6 +95,7 @@ ul.submenu {
 
     & a {
         text-decoration: none;
+        color: black;
     }
 
     & li:hover .submenu {
@@ -106,15 +107,20 @@ ul.submenu {
         padding: 1rem;
         height: auto;
         justify-content: space-around;
-        top: 4.5rem;
+        top: 3.5rem;
         margin: 0;
         margin-left: 0;
         width: 15rem;
+        z-index: 9;
     }
 }
 
+.submenu a {
+    display: flex;
+}
+
 .online-scheduling a {
-    border: .1rem tomato solid;
+    border: .1rem #305048 solid;
     padding: .5rem 1rem;
 }
 
