@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="assets/css/milligram.min.css">
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="assets/javascript/scripts.js"></script>
+    <!-- <script type="text/javascript" href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"></script> -->
 </head>
 
 <body class="mainpage">
@@ -17,7 +19,9 @@
         <img src="assets/images/woman-jogging.jpg">
     </div>
     <nav class="top-nav">
-        <a href="#" class="logo">Great Life Chiropractic</a>
+        <div class="logo">
+            <a href="#">Great Life Chiropractic</a>
+        </div>
         <!--   <div class="top-nav-links tabs">
                 <ul class="tab-links">
                     <li>
@@ -33,7 +37,7 @@
                         <a href="#videos">Videos</a>
                     </li>
             </ul> -->
-        <ul class="nav-links menu">
+        <ul class="desktop nav-links menu">
             <li class="services">
                 <a href="#">Services</a>
                 <ul class="submenu">
@@ -63,8 +67,33 @@
                 <a href="https://clients.mindbodyonline.com/classic/home?studioid=27944" target="_blank">Online Scheduling</a>
             </li>
         </ul>
+
+        <div class="mobile">
+            <button id="js-mobile-menu-button"></button>
         </div>
-    </nav>
+            <ul class="mobile-menu nav-links menu">
+                <li>
+                    <a href="#">Massage Therapy</a>
+                </li>
+                <li>
+                    <a href="#">Chiropractory</a>
+                </li>
+                <li>
+                    <a href="#">Running</a>
+                </li>
+                <li>
+                    <a href="#">Goals Fit</a>
+                </li>
+                <li>
+                    <a href="videos.html">Videos</a>
+                </li>
+                <li class="online-scheduling">
+                    <a href="https://clients.mindbodyonline.com/classic/home?studioid=27944" target="_blank">Online Scheduling</a>
+                </li>
+            </ul>
+    </nav> 
+
+
     <section class="tabs container">
         <ul class="tab-links">
             <!-- <li class="active column"> -->
@@ -155,7 +184,7 @@
                 <div class="profile-row">
                     <!-- <div class="column column-30"> -->
                     <div class="image-holder">
-                        <img src="http://www.fillmurray.com/300/300">
+                        <img src="assets/images/tedLoosMurray.jpg" alt="Bill Murray placeholder image for Ted Loos" />
                     </div>
                     <!-- <div class="profile-details column column-50"> -->
                     <div class="profile-details">
@@ -170,7 +199,7 @@
                 <!-- Niva Merlino -->
                 <div class="profile-row">
                     <div class="image-holder">
-                        <img src="https://www.placecage.com/300/300">
+                        <img src="assets/images/nivaCage.jpg" alt="HI McDunnough placeholder image for Niva" />
                     </div>
                     <div class="profile-details">
                         <h1>Niva Merlino, CMT</h1>
@@ -218,5 +247,6 @@
         </div>
     </section>
 </body>
+
 
 </html>

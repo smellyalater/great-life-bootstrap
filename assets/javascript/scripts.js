@@ -9,8 +9,10 @@ function loadPageToCorrectHash() {
 
     // WHY won't this work? 
     // $(document).scrollTOP(0);
-
 }
+
+
+
 
 
 $(document).ready(function() {
@@ -36,5 +38,10 @@ $(document).ready(function() {
         $(document).scrollTop(0);
     });
 
-// $(document).scrollTop(0);
+
+
+    $('#js-mobile-menu-button').click(function() {
+        $('.mobile-menu').slideToggle('fast');
+    });
+
 });
