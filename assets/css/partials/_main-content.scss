@@ -9,9 +9,6 @@ BEGIN main container styling
 $accent-background-color: #84DCC6;
 $cta-color: tomato;
 
-a* {
-    color: black;
-}
 .container {
     display: flex;
     justify-content: space-around;
@@ -27,7 +24,7 @@ section.tabs.container {
 }
 
  .tab {
-    display:none;
+    display: flex;
 }
 
 .active {
