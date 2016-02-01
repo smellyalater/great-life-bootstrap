@@ -2,7 +2,7 @@
 BEGIN Top Nav
 \*---------*/
 @media all and (min-width: 768px) {
-  .mobile {
+  .mobile, .mobile-menu {
     display: none; }
 
   .top-nav {
@@ -208,9 +208,6 @@ END - About Us Profiles
 /*---------*\
 BEGIN main container styling
 \*---------*/
-a* {
-  color: black; }
-
 .container {
   display: flex;
   justify-content: space-around; }
@@ -223,7 +220,7 @@ section.tabs.container {
   display: flex; }
 
 .tab {
-  display: none; }
+  display: flex; }
 
 .active {
   background-color: #84DCC6; }

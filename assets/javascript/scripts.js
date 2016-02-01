@@ -1,17 +1,20 @@
 function loadPageToCorrectHash() {
     var windowHash = window.location.hash;
-    var sectionId = ('a[href='+ windowHash + ']');
+    
+    if ( windowHash === "") {
 
 
-    $('.tabs ' + windowHash).fadeIn(400).css('display', 'flex').siblings().hide();
+        $('.tab-content #contact-us').fadeIn(400).css('display', 'flex').siblings().hide();
 
-    $(sectionId).parent().addClass('active').siblings().removeClass('active');
+    } else {
 
-    // WHY won't this work? 
-    // $(document).scrollTOP(0);
+        var sectionId = ('a[href='+ windowHash + ']');
+
+        $('.tabs ' + windowHash).fadeIn(400).css('display', 'flex').siblings().hide();
+
+        $(sectionId).parent().addClass('active').siblings().removeClass('active');
+    }
 }
-
-
 
 
 

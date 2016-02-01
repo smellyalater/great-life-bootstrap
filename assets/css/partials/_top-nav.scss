@@ -9,7 +9,7 @@ BEGIN Top Nav
 
 
 @media all and (min-width: 768px) {
-    .mobile {
+    .mobile, .mobile-menu {
         display: none;
     }
     .top-nav {

@@ -1,3 +1,14 @@
-• html 5 has a video player API
-	- use that for the video player page?
+things left to do
+• Make 3 main pages responsive
+• Have video screen as "cards" that play videos in modal. 
+	• must work on mobile
 
+• remove "resources" top-nav link
+• fix $background-accent-color and link colors
+	• make them better
+
+
+DONE
+========
+
+• ability to navigate directly to a #id via url
