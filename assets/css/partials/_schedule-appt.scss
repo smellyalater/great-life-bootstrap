@@ -39,7 +39,7 @@ BEGIN Schedule Appt Css
 	    display: flex;
 	    justify-content: center;
 	    background: $accent-background-color;
-	    width: 33%;
+	    width: 25rem;
 	    margin: 0 auto;
 	    color: white;
 
@@ -49,7 +49,7 @@ BEGIN Schedule Appt Css
 		    justify-content: center;
 		    background: $accent-background-color;
 		    padding: 1rem 5rem;
-		    color: white;
+		    color: black;
 		    width: 100%;
 		    min-width: 22rem;
 
@@ -62,6 +62,25 @@ BEGIN Schedule Appt Css
 	}
 }
 
+i.fa.fa-phone {
+    display: flex;
+    align-items: center;
+    margin-right: 1.5rem;
+    margin-top: .2rem;
+}
+
+i.fa.fa-envelope-o {
+    display: flex;
+    margin-right: 1.5rem;
+    align-items: center;
+}
+
+i.fa.fa-calendar-check-o {
+    display: flex;
+    margin-right: 1.5rem;
+    align-items: center;
+}
+
 @media all and (max-width: 768px){
 	.hour-details {
 		flex-basis: 100%;
@@ -69,7 +88,7 @@ BEGIN Schedule Appt Css
 
 	.ways-to-schedule-appt div {
 		width: 100%;
-		margin: 1rem;
+		margin: 1rem auto;
 	}
 
 

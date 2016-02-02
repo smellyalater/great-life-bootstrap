@@ -45,6 +45,13 @@ body {
     top: 0;
 }
 
+.fa.fa-phone {
+    display: flex;
+    align-items: center;
+    margin-right: 1.5rem;
+    margin-top: .2rem;
+}
+
 
 @media all and (max-width: 768px) {
     ul.tab-links {
