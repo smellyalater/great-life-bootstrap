@@ -22,6 +22,7 @@ BEGIN Top Nav
         width: 100%;
         z-index: 9;
         top: 0px;
+        border-bottom: .2rem solid black;
 
         &.row {
             padding: 1rem;
@@ -132,6 +133,7 @@ BEGIN Top Nav
             top: 0;
             width: 100%;
             z-index: 99;
+            border-bottom: .2rem solid black;
         }
 
         .mobile-menu li {

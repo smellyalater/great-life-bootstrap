@@ -14,7 +14,8 @@ BEGIN Top Nav
     position: fixed;
     width: 100%;
     z-index: 9;
-    top: 0px; }
+    top: 0px;
+    border-bottom: .2rem solid black; }
     .top-nav.row {
       padding: 1rem; }
 
@@ -94,7 +95,8 @@ BEGIN Top Nav
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 99; }
+    z-index: 99;
+    border-bottom: .2rem solid black; }
 
   .mobile-menu li {
     display: flex;
@@ -138,7 +140,7 @@ BEGIN Contact Us Container
     .hour-details .phone-holder a {
       background-color: #84DCC6;
       padding: 1rem 2rem;
-      color: white;
+      color: black;
       display: flex;
       padding: 1rem 5rem;
       justify-content: center; }
@@ -256,7 +258,7 @@ ul.tab-links {
       flex: inherit;
       flex-direction: inherit;
       align-items: center;
-      margin: .5rem;
+      margin: .5rem auto;
       width: 100%; }
     .tabs.container .hour-details, .tabs.container .maps {
       flex-basis: 100%; }
@@ -306,7 +308,7 @@ BEGIN Schedule Appt Css
     display: flex;
     justify-content: center;
     background: #84DCC6;
-    width: 33%;
+    width: 25rem;
     margin: 0 auto;
     color: white; }
     .ways-to-schedule-appt div a {
@@ -314,7 +316,7 @@ BEGIN Schedule Appt Css
       justify-content: center;
       background: #84DCC6;
       padding: 1rem 5rem;
-      color: white;
+      color: black;
       width: 100%;
       min-width: 22rem; }
       .ways-to-schedule-appt div a:hover {
@@ -322,13 +324,29 @@ BEGIN Schedule Appt Css
         box-shadow: 0px 0px 50px #84DCC6;
         color: white; }
 
+i.fa.fa-phone {
+  display: flex;
+  align-items: center;
+  margin-right: 1.5rem;
+  margin-top: .2rem; }
+
+i.fa.fa-envelope-o {
+  display: flex;
+  margin-right: 1.5rem;
+  align-items: center; }
+
+i.fa.fa-calendar-check-o {
+  display: flex;
+  margin-right: 1.5rem;
+  align-items: center; }
+
 @media all and (max-width: 768px) {
   .hour-details {
     flex-basis: 100%; }
 
   .ways-to-schedule-appt div {
     width: 100%;
-    margin: 1rem; } }
+    margin: 1rem auto; } }
 /*--------*\
 BEGIN Schedule Appt Css
 \*--------*/
@@ -349,6 +367,12 @@ body {
   z-index: -1;
   position: fixed;
   top: 0; }
+
+.fa.fa-phone {
+  display: flex;
+  align-items: center;
+  margin-right: 1.5rem;
+  margin-top: .2rem; }
 
 @media all and (max-width: 768px) {
   ul.tab-links {
