@@ -1,0 +1,27 @@
+$accent-background-color: #84DCC6;
+
+div.footer {
+	position: fixed;
+	bottom: 0;
+	z-index: 999;
+	width: 100%;
+	display: flex;
+
+	& ul {
+		margin: 0;
+	    list-style-type: none;
+    	margin-bottom: 0;
+	    color: black;
+	    background: $accent-background-color;
+	    display: flex;
+	    justify-content: center;
+	    width: 100%;
+
+	    & li {
+    	    margin: .5rem 2rem;	
+	    }
+
+	}
+}
+
+

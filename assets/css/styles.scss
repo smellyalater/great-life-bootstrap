@@ -4,9 +4,10 @@
 @import "partials/main-content";
 @import "partials/videos";
 @import "partials/schedule-appt";
+@import "partials/footer";
 
 $accent-background-color: #84DCC6;
-$cta-color: tomato;
+
 
 // @mixin button() {
 // 	background-color: $accent-background-color;
@@ -45,7 +46,7 @@ body {
     top: 0;
 }
 
-.fa.fa-phone {
+i.fa.fa-phone {
     display: flex;
     align-items: center;
     margin-right: 1.5rem;
